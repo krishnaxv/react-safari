@@ -1,0 +1,25 @@
+* {
+  box-shadow: border-box;
+  -webkit-tap-highlight-color: transparent;
+}
+
+html,
+body {
+  font-family: sans-serif;
+  margin: 0;
+}
+
+html,
+body,
+#root {
+  min-height: 100%;
+}
+
+body {
+  padding: 16px;
+}
+
+h1,
+p {
+  padding: 8px;
+}
